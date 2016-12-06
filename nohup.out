@@ -1,0 +1,12 @@
+Traceback (most recent call last):
+  File "dy2018.py", line 56, in <module>
+    keywordURLencode = urllib.quote(keyword.decode(sys.stdin.encoding).encode('GBK')) # 将查询关键字进行URL编码
+TypeError: decode() argument 1 must be string, not None
+Traceback (most recent call last):
+  File "dy2018.py", line 56, in <module>
+    keywordURLencode = urllib.quote(keyword.decode(sys.stdin.encoding).encode('GBK')) # 将查询关键字进行URL编码
+TypeError: decode() argument 1 must be string, not None
+Traceback (most recent call last):
+  File "dy2018.py", line 56, in <module>
+    keywordURLencode = urllib.quote(keyword.decode(sys.stdin.encoding).encode('GBK')) # 将查询关键字进行URL编码
+TypeError: decode() argument 1 must be string, not None
